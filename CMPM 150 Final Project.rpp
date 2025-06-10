@@ -437,7 +437,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -497,7 +497,7 @@
       FADEIN 1 0.86584853497111 0 1 0 0 0
       FADEOUT 1 4.70272031407913 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {A702D240-3A71-480E-8356-77D364518D59}
       IID 19
       NAME "Coaster Video(1)-imported.mp4"

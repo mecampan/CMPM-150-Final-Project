@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1749242509
+<REAPER_PROJECT 0.1 "7.35/win64" 1749586767
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,8 +18,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 100 0 0
+  CURSOR 23.85770975056652
+  ZOOM 36.90518853357521 291 0
   VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
@@ -90,12 +90,502 @@
   >
   <TEMPOENVEX
     EGUID {7B7B696E-1020-4BA3-9124-4EE202414B51}
-    ACT 1 -1
+    ACT 0 -1
     VIS 1 0 1
     LANEHEIGHT 0 0
     ARM 0
     DEFSHAPE 1 -1 -1
   >
   <PROJBAY
+  >
+  <TRACK {B00C8032-F704-464A-9412-FB14981F6768}
+    NAME "Coaster Video-imported"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B00C8032-F704-464A-9412-FB14981F6768}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 139.2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EFFBB049-B29C-420C-A920-D0591C19E1A8}
+      IID 15
+      NAME "Coaster Video-imported.mp4"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {57143059-DD69-413D-A316-369EC7ADE14D}
+      <SOURCE VIDEO
+        FILE "Media\Coaster Video-imported.mp4"
+      >
+    >
+  >
+  <TRACK {06D5DDAB-D0B4-40F9-BA03-6337253F9585}
+    NAME BGM
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {06D5DDAB-D0B4-40F9-BA03-6337253F9585}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {ACF9DC12-CB49-49AF-9511-876270CAD195}
+    NAME "Hyperia at Thorpe Park - Front Row POV (1080p_30fps_H264-128kbit_AAC)"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {ACF9DC12-CB49-49AF-9511-876270CAD195}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 139
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 29.3812116181723 0 1 0 0 0
+      FADEOUT 1 20.31518283607087 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {818C5FFF-84F2-4CDA-B777-B656AA8C9839}
+      IID 16
+      NAME "Hyperia at Thorpe Park - Front Row POV (1080p_30fps_H264-128kbit_AAC).ogg"
+      VOLPAN 1 0 1 -1
+      SOFFS 122.29523809523809
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {709324D0-5E13-4633-AE7A-2DDF31B4E212}
+      <SOURCE VORBIS
+        FILE "Media\Hyperia at Thorpe Park - Front Row POV (1080p_30fps_H264-128kbit_AAC).ogg"
+      >
+    >
+  >
+  <TRACK {DCF0B840-9410-493A-BE71-FE4EA92B3A81}
+    NAME SFX
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {DCF0B840-9410-493A-BE71-FE4EA92B3A81}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {1A60B484-76FC-4E42-BE59-473809FECFA9}
+    NAME "roller coaster tracks"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1A60B484-76FC-4E42-BE59-473809FECFA9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <VOLENV2
+      EGUID {7A64B37F-6571-461C-8EF7-47EAF7EFA761}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 93 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      VOLTYPE 1
+      PT 0 0.45708819 0
+    >
+    <PANENV2
+      EGUID {826F9730-EAA1-4A44-9022-11036E129E5D}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 99 0
+      ARM 1
+      DEFSHAPE 0 -1 -1
+      PT 0 -0.81 0
+      PT 15 -0.82 0
+      PT 18 -0.075 0
+    >
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 12
+      SNAPOFFS 0
+      LENGTH 8
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 3.52810880834101 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E0A2A2CA-85B3-4F7B-99AA-C1CBA1C73C23}
+      IID 21
+      NAME 474618__mycompasstv__high-speed-train-interior-cabin-china.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B9F3F8D7-E24C-4D6A-8C30-953B728565BA}
+      <SOURCE MP3
+        FILE "Media\474618__mycompasstv__high-speed-train-interior-cabin-china.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 20
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {509CCD2F-4EB5-400A-9EE4-DC58F7550E5B}
+      IID 21
+      NAME 474618__mycompasstv__high-speed-train-interior-cabin-china.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78887C50-ED2C-421A-BA47-E9CB0008663C}
+      <SOURCE MP3
+        FILE "Media\474618__mycompasstv__high-speed-train-interior-cabin-china.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 22
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5873034E-771A-4A55-B39D-79B010C801AD}
+      IID 21
+      NAME 474618__mycompasstv__high-speed-train-interior-cabin-china.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D902E890-B197-4A12-9F4C-63CCDF94A8D7}
+      <SOURCE MP3
+        FILE "Media\474618__mycompasstv__high-speed-train-interior-cabin-china.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 24
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6E925752-3525-488F-944C-1228319B61DF}
+      IID 21
+      NAME 474618__mycompasstv__high-speed-train-interior-cabin-china.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C56053F4-2242-41F9-8295-7E66408608E1}
+      <SOURCE MP3
+        FILE "Media\474618__mycompasstv__high-speed-train-interior-cabin-china.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 26
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {54054065-3C4A-4501-A9C8-BAF2BA196183}
+      IID 21
+      NAME 474618__mycompasstv__high-speed-train-interior-cabin-china.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A5AAD826-09B5-4D57-8C2A-1ED09DA4B2B8}
+      <SOURCE MP3
+        FILE "Media\474618__mycompasstv__high-speed-train-interior-cabin-china.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 28
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EBE0B885-032E-4229-AC4A-991334431494}
+      IID 21
+      NAME 474618__mycompasstv__high-speed-train-interior-cabin-china.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB9444AF-88B4-40B1-9B3E-4A16C231550C}
+      <SOURCE MP3
+        FILE "Media\474618__mycompasstv__high-speed-train-interior-cabin-china.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 30
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {272BC12A-58E4-4E3D-82B1-956C8EFE22E0}
+      IID 21
+      NAME 474618__mycompasstv__high-speed-train-interior-cabin-china.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0A35C0C5-27F1-4AA4-86D6-B6DD730E3EDC}
+      <SOURCE MP3
+        FILE "Media\474618__mycompasstv__high-speed-train-interior-cabin-china.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 32
+      SNAPOFFS 0
+      LENGTH 2
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {160A58A6-519E-43A6-BF4F-68CE8BDEEDB2}
+      IID 21
+      NAME 474618__mycompasstv__high-speed-train-interior-cabin-china.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B196EEE-A4E0-437E-8AFA-F43991160A3A}
+      <SOURCE MP3
+        FILE "Media\474618__mycompasstv__high-speed-train-interior-cabin-china.mp3" 1
+      >
+    >
+  >
+  <TRACK {1C117F2A-E904-4AFA-8EE6-DB29E11E8FC8}
+    NAME Dialogue
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1C117F2A-E904-4AFA-8EE6-DB29E11E8FC8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {CA7FAFCC-DB25-4383-9743-09A457407132}
+    NAME "Coaster Video(1)-imported"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {CA7FAFCC-DB25-4383-9743-09A457407132}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 764 176 957 536
+      SHOW 0
+      LASTSEL 3
+      DOCKED 0
+      BYPASS 1 0 0
+      <VST "VST: ReaComp (Cockos)" reacomp.dll 0 "" 1919247213<5653547265636D726561636F6D700000> ""
+        bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
+        776t3g3wrd4AAIA/ED74PKabxDsK16M8AAAAAAAAAABC+IAyDNZvPwAAAAAAAAAApug2PQ3+Wz8AAAAAzcxMPQAAAAAAAAAAAAAAAAAAgD4AAAAAAAAAAAAAAAA=
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {E8615221-4B5B-4058-B97C-DB6FB2BA4109}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaVerb (Cockos)" reaverb.dll 0 "" 1919252066<56535472657662726561766572620000> ""
+        YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAEAAAAAABAA
+        AAAQwTsrKz19mFM+AAAAAAAAgD8AAIA/AAAAPwAAgD8AAIA/AAAAQA==
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {472072E5-5AB4-4D3E-8046-04DFC179A881}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS sstillwell/hpflpf ""
+        1000 22000 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FF4CA937-4B45-457A-9F22-4484501F2240}
+      WAK 0 0
+      BYPASS 1 0 0
+      <VST "VST: ReaGate (Cockos)" reagate.dll 0 "" 1919248244<56535472656774726561676174650000> ""
+        dGdlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
+        776t3g3wrd7vnpo8ppvEOwrXozwAAAAAAAAAAJ6ZiD6XRCU9AAAAAAAAAAAAAAAA3h3mPwAAAAAAAIA/AAAAAAAAAAAAAAAALBYLPwAAAAAAAAAAAAAAAAAAAAA=
+        AAAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {6EA49418-AF98-41F3-B151-CC15D7327798}
+      WAK 0 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 19.916916
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.86584853497111 0 1 0 0 0
+      FADEOUT 1 4.70272031407913 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A702D240-3A71-480E-8356-77D364518D59}
+      IID 19
+      NAME "Coaster Video(1)-imported.mp4"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7219AFF3-847F-4FC0-AE2A-07BB5AAA63A5}
+      <SOURCE VIDEO
+        FILE "Media\Coaster Video(1)-imported.mp4"
+      >
+    >
   >
 >

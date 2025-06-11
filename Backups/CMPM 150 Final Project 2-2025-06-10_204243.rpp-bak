@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1749614461
+<REAPER_PROJECT 0.1 "7.35/win64" 1749613363
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,8 +18,8 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 92
-  ZOOM 6.63464986709659 0 0
+  CURSOR 32
+  ZOOM 9.15424214736266 0 0
   VZOOMEX 6 1314
   USE_REC_CFG 0
   RECMODE 1
@@ -1180,7 +1180,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -1192,7 +1192,7 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 37
+      POSITION 32
       SNAPOFFS 0
       LENGTH 3.76269841269841
       LOOP 1
@@ -1213,125 +1213,5 @@
         FILE "Media\woohoo-1-92954.mp3" 1
       >
     >
-    <ITEM
-      POSITION 92
-      SNAPOFFS 0
-      LENGTH 3.76269841269841
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {08EF9A19-1190-4051-AEAC-B7F8F01581BA}
-      IID 59
-      NAME woohoo-1-92954.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {F311BA22-C76B-4A40-B67F-1B4E9442A430}
-      <SOURCE MP3
-        FILE "Media\woohoo-1-92954.mp3" 1
-      >
-    >
-  >
-  <TRACK {905B3A63-71DD-4962-A673-71B39978C9B6}
-    NAME "It is IMPOSSIBLE to not Scream on this ride! #droptower #thrillride #reaction (128kbit_AAC)"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {905B3A63-71DD-4962-A673-71B39978C9B6}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 24
-      SNAPOFFS 0
-      LENGTH 14.326
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 1.96517678678115 0 1 0 0 0
-      FADEOUT 1 2.49561724193665 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {3F2E45F3-7E78-466F-9482-16CEF56B0185}
-      IID 62
-      NAME "It is IMPOSSIBLE to not Scream on this ride! #droptower #thrillride #reaction (128kbit_AAC).m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 16
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {9C4749CB-5DD2-4AFD-9450-E9A1FAA0D3E1}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "Media\It is IMPOSSIBLE to not Scream on this ride! #droptower #thrillride #reaction (128kbit_AAC).m4a"
-      >
-    >
-    <ITEM
-      POSITION 93
-      SNAPOFFS 0
-      LENGTH 9
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 4.408412085653 0 1 0 0 0
-      FADEOUT 1 2.49561724193664 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {99C8FE98-B64F-420B-8E05-ABBE407CEC79}
-      IID 62
-      NAME "It is IMPOSSIBLE to not Scream on this ride! #droptower #thrillride #reaction (128kbit_AAC).m4a"
-      VOLPAN 1 0 1 -1
-      SOFFS 19
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5551073D-D729-4580-917F-820455D8E0B3}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "Media\It is IMPOSSIBLE to not Scream on this ride! #droptower #thrillride #reaction (128kbit_AAC).m4a"
-      >
-    >
-  >
-  <TRACK {93B1CDF5-6FC6-4454-853C-C1572791831B}
-    NAME ""
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {93B1CDF5-6FC6-4454-853C-C1572791831B}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
   >
 >

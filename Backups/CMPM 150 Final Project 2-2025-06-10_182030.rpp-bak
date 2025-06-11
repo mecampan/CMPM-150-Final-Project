@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1749607257
+<REAPER_PROJECT 0.1 "7.35/win64" 1749604830
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,9 +18,9 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 23
-  ZOOM 18.03340161944619 0 0
-  VZOOMEX 6 508
+  CURSOR 14
+  ZOOM 13.4859810169175 0 0
+  VZOOMEX 6 1027
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -157,7 +157,7 @@
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 2 0 0 0 0
+    BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
     SEL 0
@@ -189,7 +189,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -201,7 +201,7 @@
       EGUID {677D3F59-E446-4B67-935C-BE577850350B}
       ACT 1 -1
       VIS 1 1 1
-      LANEHEIGHT 0 1
+      LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
@@ -242,7 +242,7 @@
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 1 1
-    BUSCOMP 2 0 0 0 0
+    BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
     SEL 0
@@ -274,7 +274,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -286,7 +286,7 @@
       EGUID {7A64B37F-6571-461C-8EF7-47EAF7EFA761}
       ACT 1 -1
       VIS 1 1 1
-      LANEHEIGHT 67 1
+      LANEHEIGHT 67 0
       ARM 1
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
@@ -340,7 +340,7 @@
       EGUID {826F9730-EAA1-4A44-9022-11036E129E5D}
       ACT 1 -1
       VIS 1 1 1
-      LANEHEIGHT 67 1
+      LANEHEIGHT 67 0
       ARM 1
       DEFSHAPE 0 -1 -1
       PT 0 -0.81 0
@@ -414,7 +414,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -479,7 +479,7 @@
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 1 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -491,7 +491,7 @@
       EGUID {358349A9-D37E-4FFA-98A4-FE77F904EEEF}
       ACT 1 -1
       VIS 1 1 1
-      LANEHEIGHT 0 1
+      LANEHEIGHT 0 0
       ARM 1
       DEFSHAPE 0 -1 -1
       VOLTYPE 1
@@ -763,22 +763,15 @@
     <FXCHAIN
       WNDRECT 764 176 957 536
       SHOW 0
-      LASTSEL 0
+      LASTSEL 3
       DOCKED 0
-      BYPASS 1 0 0
-      <JS sstillwell/hpflpf ""
-        1000 22000 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-      >
-      FLOATPOS 55 83 670 187
-      FXID {FF4CA937-4B45-457A-9F22-4484501F2240}
-      WAK 0 0
       BYPASS 1 0 0
       <VST "VST: ReaComp (Cockos)" reacomp.dll 0 "" 1919247213<5653547265636D726561636F6D700000> ""
         bWNlcu9e7f4EAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAACAAAAAQAAAAAAAAACAAAAAAAAAFwAAAAAAAAAAAAQAA==
         776t3g3wrd4AAIA/ED74PKabxDsK16M8AAAAAAAAAABC+IAyDNZvPwAAAAAAAAAApug2PQ3+Wz8AAAAAzcxMPQAAAAAAAAAAAAAAAAAAgD4AAAAAAAAAAAAAAAA=
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
-      FLOATPOS 23 51 686 481
+      FLOATPOS 0 0 0 0
       FXID {E8615221-4B5B-4058-B97C-DB6FB2BA4109}
       WAK 0 0
       BYPASS 0 0 0
@@ -789,6 +782,13 @@
       >
       FLOATPOS 0 0 0 0
       FXID {472072E5-5AB4-4D3E-8046-04DFC179A881}
+      WAK 0 0
+      BYPASS 1 0 0
+      <JS sstillwell/hpflpf ""
+        1000 22000 5 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+      >
+      FLOATPOS 0 0 0 0
+      FXID {FF4CA937-4B45-457A-9F22-4484501F2240}
       WAK 0 0
       BYPASS 1 0 0
       <VST "VST: ReaGate (Cockos)" reagate.dll 0 "" 1919248244<56535472656774726561676174650000> ""
@@ -901,7 +901,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {1430C67A-0B12-47C0-89BE-18C3865B6082}
       IID 31
       NAME "New Recording 2.m4a"
@@ -1060,24 +1060,8 @@
     FX 1
     TRACKID {E85455C8-D856-C041-B907-EBA96087AEF8}
     PERF 0
-    AUXRECV 13 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
     MIDIOUT -1
     MAINSEND 1 0
-    <FXCHAIN
-      WNDRECT 23 51 870 502
-      SHOW 0
-      LASTSEL 0
-      DOCKED 0
-      BYPASS 0 0 0
-      <VST "VST: ReaVerb (Cockos)" reaverb.dll 0 "" 1919252066<56535472657662726561766572620000> ""
-        YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAEAAAAAABAA
-        AAAQwcybgD4AAIA/AAAAAAAAgD8AAIA/AAAAPwAAgD8AAIA/AAAAQA==
-        AAAQAAAA
-      >
-      FLOATPOS 0 0 0 0
-      FXID {60119993-DE68-4F66-B46C-031012084ED9}
-      WAK 0 0
-    >
     <ITEM
       POSITION 20
       SNAPOFFS 0
@@ -1087,7 +1071,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {45DE822D-6C73-449E-A0BD-AD3CF5380F6F}
       IID 49
       NAME "No no no no no no no wait wait wait wait meme.mp3"

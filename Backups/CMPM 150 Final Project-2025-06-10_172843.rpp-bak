@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/macOS-arm64" 1749603369
+<REAPER_PROJECT 0.1 "7.35/macOS-arm64" 1749601723
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -20,11 +20,11 @@
   PANLAWFLAGS 3
   CURSOR 4
   ZOOM 3.703918345646 0 0
-  VZOOMEX 6 634
+  VZOOMEX 6 525
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
-  LOOP 1
+  LOOP 0
   LOOPGRAN 0 4
   RECORD_PATH "Media" ""
   <RECORD_CFG
@@ -175,7 +175,7 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
@@ -604,15 +604,15 @@
     BEAT -1
     AUTOMODE 0
     PANLAWFLAGS 3
-    VOLPAN 0.73679674640694 0 -1 -1 1
-    MUTESOLO 0 0 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 2 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -653,7 +653,7 @@
       <VST "VST: ReaVerbate (Cockos)" reaverbate.vst.dylib 0 "" 1920361016<56535472766238726561766572626174> ""
         OGJ2cu9e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAAKAAAAAAAAAAAABAA
         776t3g3wrd5DAgA/AACAPylcTz+a0a8+vHRzP9KK7zwfyp8+HIfNOw==
-        AAAQAAAA
+        AFByb2dyYW0gMQAQAAAA
       >
       FLOATPOS 0 0 0 0
       FXID {C2C35165-2AA0-D742-8050-03FF709E3242}
@@ -668,7 +668,7 @@
       FADEIN 1 17.10338703554306 0 1 0 0 0
       FADEOUT 1 11.12869683475877 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {368BA05F-322B-F847-AF4B-45E88A84DD49}
       IID 32
       NAME screams.wav
@@ -679,102 +679,6 @@
       GUID {63168F36-FC47-DF40-B402-05CF0047E365}
       <SOURCE WAVE
         FILE "Media/screams.wav"
-      >
-    >
-  >
-  <TRACK {25BAEE89-60BA-7F4F-AF32-7FD50395AA24}
-    NAME gta-san-andreas-ah-shit-here-we-go-again
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 1
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {25BAEE89-60BA-7F4F-AF32-7FD50395AA24}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 4
-      SNAPOFFS 0
-      LENGTH 3.11147392290249
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {EEB69DE1-BDF4-4F46-B65E-3FCB64BA0812}
-      IID 48
-      NAME gta-san-andreas-ah-shit-here-we-go-again.mp3
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {AA7442BE-33EC-1340-A04C-9D658DA1F6F9}
-      <SOURCE MP3
-        FILE "Media/gta-san-andreas-ah-shit-here-we-go-again.mp3" 1
-      >
-    >
-  >
-  <TRACK {E85455C8-D856-C041-B907-EBA96087AEF8}
-    NAME "No no no no no no no wait wait wait wait meme"
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {E85455C8-D856-C041-B907-EBA96087AEF8}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 20
-      SNAPOFFS 0
-      LENGTH 5.38702947845805
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {8D9A6741-1972-8D49-8027-D5497AE920AF}
-      IID 49
-      NAME "No no no no no no no wait wait wait wait meme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {6AFED880-F7D5-7C4E-B003-5E5769916394}
-      <SOURCE MP3
-        FILE "Media/No no no no no no no wait wait wait wait meme.mp3" 1
       >
     >
   >
